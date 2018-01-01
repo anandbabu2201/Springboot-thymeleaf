@@ -1,0 +1,4 @@
+com\unilog\prime\ecommerce\entity\User.class
+com\unilog\prime\ecommerce\PrimeEcommerceApplication.class
+com\unilog\prime\ecommerce\service\UserService.class
+com\unilog\prime\ecommerce\controller\UserController.class
